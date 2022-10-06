@@ -23,3 +23,13 @@ The second session examples requires either Mathworks Matlab or GNU Octave to ru
   
  The third session examples use the ORTiS Circuit Solver Codegen Tools (binaries included with the examples).
  For the latest releases and source code of these tools, you can download them here: https://github.com/OpenRealTimeSimulation/SolverCodegen
+ 
+ ## Acknowledgements
+ 
+Thanks to following people for putting together these examples and demos:
+ * Dr. Matthew Milton
+  * Energy Routing Lab of University of South Carolina, Columbia, SC, USA
+ * Dr. Andrea Benigni
+  * IEK-10 of Forschungszentrum Juelich, Juelich, Germany; and RWTH Aachen Univerisity, Aachen, Germany
+ * Dr. Giovanni De Carne
+  * Institute of Technical Physics of Karlsruhe Institute of Technology (KIT)
