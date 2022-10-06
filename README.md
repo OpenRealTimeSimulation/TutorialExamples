@@ -32,4 +32,4 @@ Thanks to following people for putting together these examples and demos:
  * Dr. Andrea Benigni
   * IEK-10 of Forschungszentrum Juelich, Juelich, Germany; and RWTH Aachen Univerisity, Aachen, Germany
  * Dr. Giovanni De Carne
-  * Institute of Technical Physics of Karlsruhe Institute of Technology (KIT)
+  * Institute of Technical Physics of Karlsruhe Institute of Technology (KIT), Eggenstein-Leopoldshafen, Germany
