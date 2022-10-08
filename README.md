@@ -33,12 +33,12 @@ The second session examples requires either Mathworks Matlab or GNU Octave to ru
  
 Thanks to the following people for putting together these examples and demos:
 - Dr. Matthew Milton
-  - Energy Routing Lab of University of South Carolina, Columbia, SC, USA
+  - Energy Routing Lab, University of South Carolina, Columbia, SC, USA
   - Session 3 materials
 - Prof. Andrea Benigni
-  - IEK-10 of Forschungszentrum Juelich, Juelich, Germany
+  - IEK-10: Energy Systems Engineering, Forschungszentrum Juelich, Juelich, Germany
   - RWTH Aachen Univerisity, Aachen, Germany
   - Session 2 materials
 - Dr.-Ing. Giovanni De Carne
-  - Institute of Technical Physics of Karlsruhe Institute of Technology (KIT), Eggenstein-Leopoldshafen, Germany
+  - Institute of Technical Physics, Karlsruhe Institute of Technology (KIT), Eggenstein-Leopoldshafen, Germany
   - Session 1 materials
