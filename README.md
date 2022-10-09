@@ -22,6 +22,7 @@ The example/demo files can be opened by first unzipping their contents into fold
 
 The examples are grouped into three sessions, one for power electronics modeling for power and energy simulation, one for general power electronic systems simulation with switching models, and one for high-performance real-time simulation of power electronics simulations using FPGAs.  Each session folder comes with a README.txt file to explain their files purpose and usage.
 
+The first session example requires Mathworks Simulink to run.
 The second session examples requires either Mathworks Matlab or GNU Octave to run.  The third session examples requires either of the following, depending on the example in question:
   * Code::Blocks C++ IDE (https://www.codeblocks.org/) and a GCC/other C++ compiler
   * Xilinx Vivado HLx 2019.2 (or later) FPGA development suite
